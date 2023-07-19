@@ -1,0 +1,124 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v2_278 {
+  width: 1440px;
+  height: 1024px;
+  background: url("../ing/background-3104413\ 1.svg");
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v2_279 {
+  width: 320px;
+  height: 220px;
+  background: url("../ing/cis.svg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 287px;
+  left: 842px;
+  overflow: hidden;
+}
+.v2_281 {
+  width: 244px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 80px;
+  left: 598px;
+  text-shadow: 21px 22px 1px rgba(0, 0, 0, 0.25);
+  font-family: Heebo;
+  font-weight: Medium;
+  font-size: 64px;
+  opacity: 1;
+  text-align: left;
+}
+.v8_40 {
+  width: 73px;
+  height: 40px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 963px;
+  left: 18px;
+  border-top-left-radius: 87px;
+  border-top-right-radius: 87px;
+  border-bottom-left-radius: 87px;
+  border-bottom-right-radius: 87px;
+  overflow: hidden;
+}
+.v8_41 {
+  width: 71px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 964px;
+  left: 34px;
+  font-size: 24px;
+}
+.v8_54 {
+  width: 100%;
+  height: 722px;
+  background: url("../images/v8_54.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 275px;
+  left: 238px;
+  overflow: hidden;
+}
+.v8_55 {
+  width: 100%;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 222px;
+  left: 0px;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v8_56 {
+  width: 100%;
+  color: rgba(255,255,255,1);
+  position: relative;
+  top: 0px;
+  left: 0px;
+  font-family: Heebo;
+  font-weight: Bold;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+.v8_57 {
+  width: 894px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 211px;
+  left: 238px;
+  font-family: Heebo;
+  font-weight: Bold;
+  font-size: 45px;
+  opacity: 1;
+  text-align: left;
+}
+.v8_58 {
+  width: 261px;
+  height: 199px;
+  background: url("../images/v8_58.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 284px;
+  left: 842px;
+  overflow: hidden;
+}

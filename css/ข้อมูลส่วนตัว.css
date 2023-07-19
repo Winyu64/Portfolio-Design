@@ -1,0 +1,133 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v2_268 {
+  width: 1440px;
+  height: 1024px;
+  background: url("../ing/background-3104413\ 1.svg");
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v2_269 {
+  width: 750px;
+  height: 750px;
+  background: url("../ing/man1.svg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 100px;
+  left: 10px;
+  border-top-left-radius: 500px;
+  border-top-right-radius: 500px;
+  border-bottom-left-radius: 500px;
+  border-bottom-right-radius: 500px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.v2_271 {
+  width: 391px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 80px;
+  left: 524px;
+  text-shadow: 21px 22px 1px rgba(0, 0, 0, 0.25);
+  font-family: Heebo;
+  font-weight: Medium;
+  font-size: 64px;
+  opacity: 1;
+  text-align: left;
+}
+.v8_42 {
+  width: 73px;
+  height: 40px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 968px;
+  left: 21px;
+  border-top-left-radius: 87px;
+  border-top-right-radius: 87px;
+  border-bottom-left-radius: 87px;
+  border-bottom-right-radius: 87px;
+  overflow: hidden;
+}
+.v8_43 {
+  width: 71px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 968px;
+  left: 35px;
+  font-size: 24px;
+}
+.v8_45 {
+  width: 72px;
+  height: 59px;
+  background: url("../ing/fb.svg");
+  opacity: 1;
+  position: absolute;
+  top: 771px;
+  left: 707px;
+}
+.v8_46 {
+  width: 71px;
+  height: 59px;
+  background: url("../ing/insta.svg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 871px;
+  left: 707px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.v8_50 {
+  width: 632px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 264px;
+  left: 707px;
+  font-size: 64px;
+}
+.v8_51 {
+  width: 219px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 872px;
+  left: 835px;
+  font-family: Heebo;
+  font-weight: Bold;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.v8_52 {
+  width: 372px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 776px;
+  left: 824px;
+  font-family: Heebo;
+  font-weight: Bold;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.v8_53 {
+  width: 961px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 390px;
+  left: 707px;
+  font-size: 40px;
+
+}
